@@ -22,6 +22,7 @@ public class 盛最多水的容器 {
 //		return max;
 //	        
 //	    }
+	//双指针算法
 	public static int maxArea(int[] height) {
 		int max=0;
 		int left =0;
