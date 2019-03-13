@@ -1,7 +1,5 @@
 package com.hd.suanfa;
 
-import java.util.ArrayList;
-import java.util.List;
 
 public class ÒÆ³ıÔªËØ {
 
